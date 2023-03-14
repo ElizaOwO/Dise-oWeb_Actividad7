@@ -7,3 +7,4 @@ En esta actividad se realizó:<br>
 ▪Factory para registrar cien cursos<br>
 </p>
 
+![](https://github.com/ElizaOwO/Dise-oWeb_Actividad7/blob/master/ER.png)
